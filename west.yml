@@ -26,6 +26,9 @@ manifest:
     - name: upstream
       url-base: https://github.com/zephyrproject-rtos
 
+    - name: ridephysics
+      url-base: https://github.com/ridephysics
+
   # The initial list of external projects is just Zephyr's net-tools
   # repository, which is useful for running the Zephyr networking
   # stack in QEMU.
