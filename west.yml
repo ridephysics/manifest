@@ -43,5 +43,9 @@ manifest:
       revision: master
       west-commands: scripts/west-commands.yml
 
+    - name: usfs
+      remote: ridephysics
+      revision: master
+
   self:
     path: manifest
