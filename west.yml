@@ -47,5 +47,9 @@ manifest:
       remote: ridephysics
       revision: master
 
+    - name: imulogger
+      remote: ridephysics
+      revision: master
+
   self:
     path: manifest
