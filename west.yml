@@ -18,6 +18,9 @@ manifest:
     - name: ridephysics/crosslog
       path: components/crosslog
 
+    - name: ridephysics/uev
+      path: components/uev
+
   self:
     path: manifest
 
