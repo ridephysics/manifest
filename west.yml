@@ -15,6 +15,9 @@ manifest:
     - name: espressif/esp-idf
       path: external/esp-idf
 
+    - name: ridephysics/crosslog
+      path: components/crosslog
+
   self:
     path: manifest
 
