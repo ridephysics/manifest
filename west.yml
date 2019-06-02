@@ -28,6 +28,9 @@ manifest:
     - name: ridephysics/uev
       path: components/uev
 
+    - name: ridephysics/usfs
+      path: components/usfs
+
   self:
     path: manifest
 
