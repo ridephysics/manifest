@@ -22,6 +22,9 @@ manifest:
     - name: ridephysics/crosslog
       path: components/crosslog
 
+    - name: ridephysics/crossi2c
+      path: components/crossi2c
+
     - name: ridephysics/uev
       path: components/uev
 
