@@ -31,6 +31,9 @@ manifest:
     - name: ridephysics/usfs
       path: components/usfs
 
+    - name: ridephysics/uftpd
+      path: components/uftpd
+
   self:
     path: manifest
 
