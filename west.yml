@@ -19,8 +19,9 @@ manifest:
       path: external/mqtt-c
       revision: eventloop
 
-    - name: BoschSensortec/BMP280_driver
+    - name: M1cha/BMP280_driver
       path: external/bmp280
+      revision: userctx
 
     - name: ridephysics/crosslog
       path: components/crosslog
