@@ -12,6 +12,10 @@ manifest:
       path: imulogger
       west-commands: scripts/west-commands.yml
 
+    - name: ridephysics/sensoreval
+      path: sensoreval
+      west-commands: scripts/west-commands.yml
+
     - name: espressif/esp-idf
       path: external/esp-idf
 
