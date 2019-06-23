@@ -23,6 +23,9 @@ manifest:
       path: external/mqtt-c
       revision: eventloop
 
+    - name: ridephysics/imu_tools
+      path: external/imu_tools
+
     - name: ridephysics/BMP280_driver
       path: external/bmp280
 
