@@ -12,22 +12,12 @@ manifest:
       path: imulogger
       west-commands: scripts/west-commands.yml
 
-    - name: ridephysics/sensoreval
-      path: sensoreval
-      west-commands: scripts/west-commands.yml
-
     - name: espressif/esp-idf
       path: external/esp-idf
 
     - name: M1cha/MQTT-C
       path: external/mqtt-c
       revision: eventloop
-
-    - name: imneme/pcg-c
-      path: external/pcg-c
-
-    - name: ridephysics/imu_tools
-      path: external/imu_tools
 
     - name: ridephysics/BMP280_driver
       path: external/bmp280
