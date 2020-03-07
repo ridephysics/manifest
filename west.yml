@@ -33,6 +33,7 @@ manifest:
 
     - name: ridephysics/usfs
       path: components/usfs
+      west-commands: scripts/west-commands.yml
 
     - name: ridephysics/uftpd
       path: components/uftpd
